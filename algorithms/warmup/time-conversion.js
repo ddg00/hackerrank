@@ -20,6 +20,7 @@ function readLine() {
 
 /////////////// ignore above this line ////////////////////
 
+
 function main() {
     var time = readLine();
     var arr = time.split(":");
